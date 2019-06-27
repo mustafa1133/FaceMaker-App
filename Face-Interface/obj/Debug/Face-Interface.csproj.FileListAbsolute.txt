@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\C# practice\Face-Interface\Face-Interface\bin\Debug\Face-Interface.dll
+C:\Users\user\Desktop\C# practice\Face-Interface\Face-Interface\bin\Debug\Face-Interface.pdb
+C:\Users\user\Desktop\C# practice\Face-Interface\Face-Interface\obj\Debug\Face-Interface.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# practice\Face-Interface\Face-Interface\obj\Debug\Face-Interface.dll
+C:\Users\user\Desktop\C# practice\Face-Interface\Face-Interface\obj\Debug\Face-Interface.pdb
+C:\Users\user\Desktop\C# practice\Face-Interface\Face-Interface\obj\Debug\Face-Interface.csprojAssemblyReference.cache

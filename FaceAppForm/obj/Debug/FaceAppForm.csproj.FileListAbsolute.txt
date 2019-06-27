@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\bin\Debug\FaceAppForm.exe.config
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\bin\Debug\FaceAppForm.exe
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\bin\Debug\FaceAppForm.pdb
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.csprojAssemblyReference.cache
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.Form1.resources
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.Properties.Resources.resources
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.exe
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.pdb
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\bin\Debug\Face-Interface.dll
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\bin\Debug\Face-Interface.pdb
+C:\Users\user\Desktop\C# practice\Face-Interface\FaceAppForm\obj\Debug\FaceAppForm.csproj.CopyComplete
